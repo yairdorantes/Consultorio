@@ -1,0 +1,1 @@
+web: gunicorn consultorioBack.wsgi --log-file -
